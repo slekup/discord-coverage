@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: The Best Discord Admin Resource
-  # text: Discord Admin Resource
+  text: By Slekup
   tagline: Comprehensive resource for Discord admins tips, guides, and tools to manage servers effectively.
   actions:
     - theme: brand
