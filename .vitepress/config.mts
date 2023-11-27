@@ -43,7 +43,7 @@ export default defineConfig({
           { text: 'Server Rules', link: '/templates/server-rules' },
           {
             text: 'Moderator Applicatons',
-            link: '/templates/stmodaff-applications',
+            link: '/templates/moderator-applications',
           },
         ],
       },
