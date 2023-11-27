@@ -3,22 +3,25 @@
 layout: home
 
 hero:
-  name: The Best Discord Admin Resource
-  text: By Slekup
-  tagline: Comprehensive resource for Discord admins tips, guides, and tools to manage servers effectively.
+  name: Coverage of All Discord Resources
+  # text: By Slekup
+  tagline: Comprehensive coverage for Discord resources, tips, guides, and tools.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Introduction
+      link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Resources
+      link: /resources/resources
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: Staff Management
+    details: Learn how to manage your staff team effectively in a straightforward manner.
+  - icon: 🤖
+    title: Bots
+    details: See my list of recommend bots and how to use them to automate your server.
+  - icon: ✨
+    title: Templates
+    details: Use our templates to save time and effort setting up your server.
 ---
