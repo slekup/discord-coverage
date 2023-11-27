@@ -1,4 +1,6 @@
-# Introduction
+# Discord Coverage
+
+Comprehensive coverage of everything Discord.
 
 This resource is a curated collection of tips, guides, and resources. It is a work in progress, so if you have any suggestions, please let me know.
 
