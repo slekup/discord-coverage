@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   outDir: './dist',
   title: 'Discord Coverage',
-  description: 'Comprehensive coverage of everything related to Discord.',
+  description: 'Comprehensive coverage of everything Discord.',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   cleanUrls: true,
   ignoreDeadLinks: true,

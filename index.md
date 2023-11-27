@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Coverage of All Discord Resources
   # text: By Slekup
-  tagline: Comprehensive coverage for Discord resources, tips, guides, and tools.
+  tagline: Comprehensive coverage of everything Discord
   actions:
     - theme: brand
       text: Introduction
